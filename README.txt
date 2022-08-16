@@ -1,3 +1,4 @@
+https://docs.minecraftforge.net/en/1.18.x/gettingstarted/
 
 Source installation information for modders
 -------------------------------------------
